@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```yaml
+----
+Who: Guilherme Gois
+Pronoums: "He"| "Him"
+From: São Paulo, Brazil
+----
+Tech:
+  - Code
+```
