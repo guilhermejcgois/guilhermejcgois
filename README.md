@@ -36,7 +36,7 @@ From: São Paulo, Brazil
 Actually:
   - What: Learning
     Subjects: [
-      "NextJS"
+      "semantic-release"
     ]
   - What: Reading
     Books: [
