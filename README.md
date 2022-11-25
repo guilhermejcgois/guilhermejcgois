@@ -34,9 +34,9 @@ Pronoums: "He" | "Him"
 From: São Paulo, Brazil
 ----
 Actually:
-  - What: Learning
+  - What: Studying
     Subjects: [
-      "semantic-release"
+      "eslint"
     ]
   - What: Reading
     Books: [
@@ -44,7 +44,7 @@ Actually:
       "Start with why - by Simon Sinek"
     ]
   - What: Working
-    Company: Gorila Invest
+    Company: Wait for it . . .
     As: Tech Leader
 ```
 
