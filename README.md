@@ -44,7 +44,7 @@ Actually:
       "Start with why - by Simon Sinek"
     ]
   - What: Working
-    Company: Wait for it . . .
+    Company: Monte Bravo Investimentos
     As: Tech Leader
 ```
 
