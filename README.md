@@ -36,12 +36,12 @@ From: São Paulo, Brazil
 Actually:
   - What: Studying
     Subjects: [
-      "eslint"
+      "RabbitMQ",
+      "Terraform"
     ]
   - What: Reading
     Books: [
-      "Accelerate - by Nicole Forsgren Phd, Jez Humble, Gene Kim",
-      "Start with why - by Simon Sinek"
+      "Grit: The Power of Passion and Perseverance - by Angela Duckworth"
     ]
   - What: Working
     Company: Monte Bravo Investimentos
