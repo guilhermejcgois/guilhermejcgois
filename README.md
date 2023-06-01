@@ -36,13 +36,10 @@ From: São Paulo, Brazil
 Actually:
   - What: Studying
     Subjects: [
-      "RabbitMQ",
-      "Terraform"
+      "Flutter/Dart"
     ]
   - What: Reading
-    Books: [
-      "Grit: The Power of Passion and Perseverance - by Angela Duckworth"
-    ]
+    Books: []
   - What: Working
     Company: Monte Bravo Investimentos
     As: Tech Leader
