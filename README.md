@@ -1,91 +1,76 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+&lt;Guilherme+Gois/&gt;!)](https://git.io/typing-svg)
+<h1 align="center">Guilherme Gois</h1>
 
 <p align="center">
-I'm a fullstack developer skilled on front end development, passionate about designing and developing amazing products that deliver real value for real people. "Man should not live by code alone", agile and lean process enthusiast and continually improving leadership skills.
+  Tech Lead & Fullstack (Front-end first) <br/>
+  Produto claro, entrega consistente e código que aguenta o tranco.
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilhermejcgois/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:guilhermejcgois@outlook.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermejcgois/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guijocargo@gmail.com)
-</div>
-
----
-
-<!--
-**guilhermejcgois/guilhermejcgois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-```yaml
-----
-Who: Guilherme Gois
-Pronoums: "He" | "Him"
-From: São Paulo, Brazil
-----
-Actually:
-  - What: Studying
-    Subjects: [
-      "Flutter/Dart"
-    ]
-  - What: Reading
-    Books: []
-  - What: Working
-    Company: Monte Bravo Investimentos
-    As: Tech Leader
-```
+<p align="center">
+  <sub>📍 São Paulo, Brasil • Tech Lead @ <b>Monte Bravo</b></sub>
+</p>
 
 ---
 
-<h2 align="center"> :hammer_and_wrench: Tech skills :hammer_and_wrench: </h2>
+## O que eu entrego
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+- Produto: objetivo claro, priorização e narrativa que alinham negócio e execução
+- Front-end: componentização, performance, design system e DX saudável
+- Back-end/integração: APIs, mensageria e dados sem travar na dependência de infra
+- Qualidade: testes, observabilidade e processos que evitam regressão e surpresa em produção
+- Liderança: decisões técnicas, mentoria, padrões e cadência de entrega
 
 ---
 
-<h2 align="center"> :zap: Stats :zap: </h2>
+## Stack de trabalho
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejcgois&theme=tokyonight&show_icons=true)
+- Front-end: Angular, React, Next.js, TypeScript, Storybook, Figma
+- Back-end: Node.js, NestJS, REST/GraphQL
+- Dados/Infra: Python, Airflow+DBT, PostgreSQL, MongoDB, Docker, AWS
+- Engenharia: GitHub Actions, testes (unit/e2e), observabilidade, padrões de código
 
 ---
 
-<details>
-  <summary>What help/inspired me building this:</summary>
-  
-  - https://github.com/abhisheknaiidu/awesome-github-profile-readme
-  - https://dev.to/envoy_/150-badges-for-github-pnk
-  - https://github.com/syrashid/syrashid
-  - https://github.com/DenverCoder1/readme-typing-svg
-  - https://github-emoji-picker.vercel.app/
-</details>
+## Tooling não-negociável
+
+- Foundation: Node via volta/fnm, pnpm (lockfile + workspaces), devcontainer/Docker
+- Monorepo: Nx (cache, affected), estrutura apps/ e libs/, lint de boundaries
+- Runner: Nx + just, comandos padrão `dev`, `build`, `test`, `lint`, `typecheck`, `format`, `e2e`
+- Qualidade: eslint + prettier, tsc, vitest/jest, playwright/cypress, CI no GitHub Actions
+- Release: changesets ou semantic-release, changelog automático, publish em npm/docker
+
+---
+
+## Projetos em destaque
+
+- ⭐ [feedcli](https://github.com/guilhermejcgois/feedcli): feeder de RSS no terminal; objetivo prático para sair do caos do e-mail e praticar Python
+- ⭐ [dotfiles](https://github.com/guilhermejcgois/dotfiles): setup único para sincronizar ambientes rapidamente (yadm, shell, Lua)
+- ⭐ [f5](https://github.com/guilhermejcgois/f5): SPA em PugJS/Express para TCC de design; pensado para designers com pouca experiência em código manterem
+
+---
+
+## Como eu trabalho
+
+- Clareza antes de código: objetivo, trade-offs, critérios de aceite
+- PR pequena e revisável: fácil de ler, fácil de reverter
+- Qualidade contínua: lint/test/CI, monitoramento e prevenção de regressões
+- Documentação mínima útil: runbook + ADR das decisões-chave
+
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/guilhermejcgois/
+- Email: [guilhermejcgois@outlook.com](mailto:guilhermejcgois@outlook.com)
+
+---
+
+<sub>Curte engenharia bem feita? Bora trocar ideia.</sub>
