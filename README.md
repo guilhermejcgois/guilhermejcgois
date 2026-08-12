@@ -1,8 +1,12 @@
 <h1 align="center">Guilherme Gois</h1>
 
 <p align="center">
-  Tech Lead & Fullstack (Front-end first) <br/>
-  Produto claro, entrega consistente e código que aguenta o tranco.
+  <strong>Backend · Cloud · DevOps · Software Engineering</strong><br/>
+  I build, deploy, and troubleshoot production software.
+</p>
+
+<p align="center">
+  <code>Node.js / NestJS</code> · <code>AWS / Terraform</code> · <code>Docker</code> · <code>PostgreSQL</code> · <code>CI/CD</code> · <code>Observability</code>
 </p>
 
 <p align="center">
@@ -15,62 +19,86 @@
 </p>
 
 <p align="center">
-  <sub>📍 São Paulo, Brasil • Tech Lead @ <b>Monte Bravo</b></sub>
+  <sub>Tech Lead @ <b>Monte Bravo</b> · São Paulo, Brazil</sub>
 </p>
 
 ---
 
-## O que eu entrego
+## About
 
-- Produto: objetivo claro, priorização e narrativa que alinham negócio e execução
-- Front-end: componentização, performance, design system e DX saudável
-- Back-end/integração: APIs, mensageria e dados sem travar na dependência de infra
-- Qualidade: testes, observabilidade e processos que evitam regressão e surpresa em produção
-- Liderança: decisões técnicas, mentoria, padrões e cadência de entrega
+Tech Lead with hands-on experience designing production systems, cloud infrastructure, engineering standards, and developer workflows. I lead teams and ship code — not one or the other.
+
+Currently building backend services, cloud infrastructure, and internal tooling at [Monte Bravo](https://github.com/MonteBravo).
 
 ---
 
-## Stack de trabalho
+## What I deliver
 
-- Front-end: Angular, React, Next.js, TypeScript, Storybook, Figma
-- Back-end: Node.js, NestJS, REST/GraphQL
-- Dados/Infra: Python, Airflow+DBT, PostgreSQL, MongoDB, Docker, AWS
-- Engenharia: GitHub Actions, testes (unit/e2e), observabilidade, padrões de código
-
----
-
-## Tooling não-negociável
-
-- Foundation: Node via volta/fnm, pnpm (lockfile + workspaces), devcontainer/Docker
-- Monorepo: Nx (cache, affected), estrutura apps/ e libs/, lint de boundaries
-- Runner: Nx + just, comandos padrão `dev`, `build`, `test`, `lint`, `typecheck`, `format`, `e2e`
-- Qualidade: eslint + prettier, tsc, vitest/jest, playwright/cypress, CI no GitHub Actions
-- Release: changesets ou semantic-release, changelog automático, publish em npm/docker
+| Area | Capabilities |
+|------|-------------|
+| **Backend** | REST/GraphQL APIs, event-driven architecture, message brokers, NestJS, Node.js, Python |
+| **Cloud & Infra** | AWS (ECS/Fargate, RDS, S3, IAM), Terraform, Docker, networking |
+| **CI/CD** | GitHub Actions, automated releases, branching strategies, deployment pipelines |
+| **Observability** | Health checks, metrics endpoints, structured logging, monitoring |
+| **Data** | PostgreSQL, MongoDB, migrations, Airflow + DBT pipelines |
+| **Engineering** | Architecture decisions (ADRs), code review standards, monorepo strategy (Nx), DX tooling |
 
 ---
 
-## Projetos em destaque
+## How I work
 
-- ⭐ [feedcli](https://github.com/guilhermejcgois/feedcli): feeder de RSS no terminal; objetivo prático para sair do caos do e-mail e praticar Python
-- ⭐ [dotfiles](https://github.com/guilhermejcgois/dotfiles): setup único para sincronizar ambientes rapidamente (yadm, shell, Lua)
-- ⭐ [f5](https://github.com/guilhermejcgois/f5): SPA em PugJS/Express para TCC de design; pensado para designers com pouca experiência em código manterem
-
----
-
-## Como eu trabalho
-
-- Clareza antes de código: objetivo, trade-offs, critérios de aceite
-- PR pequena e revisável: fácil de ler, fácil de reverter
-- Qualidade contínua: lint/test/CI, monitoramento e prevenção de regressões
-- Documentação mínima útil: runbook + ADR das decisões-chave
+- **ADR before code** — if I can't explain the decision in 3 paragraphs, I don't build it
+- **PRs under 400 lines** — beyond that, I stack
+- **CI is non-negotiable** — lint + type-check + test before any merge
+- **Observability first** — if there's no metric, it's not in prod
+- **Runbooks for every critical path** — not tribal knowledge
 
 ---
 
-## Contato
+## Featured projects
 
-- LinkedIn: https://www.linkedin.com/in/guilhermejcgois/
-- Email: [guilhermejcgois@outlook.com](mailto:guilhermejcgois@outlook.com)
+| Project | What it demonstrates |
+|---------|---------------------|
+| [tf-flask-fargate](https://github.com/guilhermejcgois/tf-flask-fargate) | AWS ECS/Fargate + Terraform IaC + GitHub Actions CI/CD pipeline |
+| [automatic-releasing-workflow](https://github.com/guilhermejcgois/automatic-releasing-workflow) | Automated release & hotfix workflows with GitHub Actions, tags, and changelogs |
+| [sre-prova-nivel1](https://github.com/guilhermejcgois/sre-prova-nivel1) | Docker deploy/rollback scripts + health checks + metrics endpoint + CI |
+| [feedcli](https://github.com/guilhermejcgois/feedcli) | Python CLI tool — RSS reader with rich terminal UI, semantic-release, pytest |
+| [dotfiles](https://github.com/guilhermejcgois/dotfiles) | Dev environment as code — Zsh, yadm, Kiro steering files, multi-OS bootstrap |
 
 ---
 
-<sub>Curte engenharia bem feita? Bora trocar ideia.</sub>
+## Tech stack
+
+```
+Backend:      Node.js, NestJS, Python, Flask, REST, GraphQL, RabbitMQ
+Cloud:        AWS (ECS, Fargate, RDS, S3, IAM), Terraform, Docker
+CI/CD:        GitHub Actions, semantic-release, changesets
+Data:         PostgreSQL, MongoDB, Airflow, DBT
+Frontend:     Angular, React, Next.js, TypeScript, Storybook
+Tooling:      Nx monorepo, pnpm, Volta, Vitest, Playwright, ESLint, Prettier
+```
+
+---
+
+## Tooling philosophy
+
+| Layer | Choice |
+|-------|--------|
+| Runtime | Node via Volta/fnm, Python via uv |
+| Package manager | pnpm (lockfile + workspaces) |
+| Monorepo | Nx (cache, affected, boundary lint) |
+| Quality | ESLint + Prettier, tsc strict, Vitest/Jest, Playwright/Cypress |
+| CI | GitHub Actions with lint → type-check → test → build gates |
+| Release | Changesets or semantic-release, automated changelog |
+| Containers | Docker multi-stage builds, devcontainers |
+
+---
+
+## Contact
+
+- **LinkedIn:** [guilhermejcgois](https://www.linkedin.com/in/guilhermejcgois/)
+- **Email:** [guilhermejcgois@outlook.com](mailto:guilhermejcgois@outlook.com)
+
+---
+
+<sub>Solid engineering, clear decisions, reliable delivery. Let's talk.</sub>
